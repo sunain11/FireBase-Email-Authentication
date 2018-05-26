@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebaseauthen</string>
+    <string name="loading">Loading…</string>
+    <string name="log_error_occurred">"Error occurred: "</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="web_client_id">1027093560717-dk3fi7sqgmf0pjp9gdedsrn6j4kld10j.apps.googleusercontent.com</string>
+</resources>
