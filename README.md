@@ -1,1 +1,1 @@
-# FireBase-Email-Authentication
+# Sarcasminator Prototype
